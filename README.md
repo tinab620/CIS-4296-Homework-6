@@ -1,1 +1,3 @@
-"Hello this is homework 6." 
+
+"Hello this is homework 6, today is Thursday." 
+
